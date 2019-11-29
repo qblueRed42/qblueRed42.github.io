@@ -1,9 +1,17 @@
-body{margin:20px auto;max-width:650px;
+body{margin:20px auto;
+max-width:650px;
 background-color:#282a37;
-font-size:18px;
-color:#1aa43a;
+color:#1aa42a;
 padding:0 10px;
 font-family: 'Noto Sans', "droid-sans", "Roboto",  sans-serif;
+}
+h1,h2,h3{
+font-family: 'Noto Sans', "droid-sans", "Roboto",  sans-serif;
+color:#2c1;
+}
+h4,h5,h6{
+font-family: 'Noto Sans', "droid-sans", "Roboto",  sans-serif;
+color:#1aa43a;
 }
 a{color:#fff9}
 ul {
@@ -17,11 +25,9 @@ li {
   color: #2c1;
   text-align: center;
 }
-
 .footer_img{
 float: left;  
 }
-
 img {
   max-width: 100%;
   max-height: 100%;
@@ -44,7 +50,7 @@ li a {
 }
 a#titlelink{
   text-decoration: none;
-  color: #2c1;
+  color: #2c2;
   font-family: 'Noto Sans', "droid-sans", "Roboto",  sans-serif;
   font-weight: 700;
   font-size: 40px;
