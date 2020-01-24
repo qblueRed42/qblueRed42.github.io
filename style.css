@@ -14,16 +14,22 @@ font-family: 'Noto Sans', "droid-sans", "Roboto",  sans-serif;
 color:#1aa43a;
 }
 a{color:#fff9}
-ul {
+.ul-nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
-li {
+.li-nav {
   float: left;
   color: #2c1;
   text-align: center;
+}
+li a {
+  color: #fff7;
+  text-align: center;
+  text-decoration: none;
+  padding: 5px;
 }
 .footer_img{
 float: left;  
@@ -42,16 +48,15 @@ picture {
   margin-left: auto;
   margin-right: auto;
 }
-li a {
-  color: #fff7;
-  text-align: center;
-  text-decoration: none;
-  padding: 5px;
-}
 a#titlelink{
   text-decoration: none;
   color: #2c2;
   font-family: 'Noto Sans', "droid-sans", "Roboto",  sans-serif;
   font-weight: 700;
   font-size: 40px;
+}
+
+.snippet{
+  color: #fff9;
+  font-family: noto mono, roboto mono, monospace;
 }
