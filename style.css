@@ -1,9 +1,11 @@
-body{margin:20px auto;
+body {
+margin:20px auto;
 max-width:650px;
 background-color:#282a37;
 color:#1aa42a;
 padding:0 10px;
 font-family: 'Noto Sans', "droid-sans", "Roboto",  sans-serif;
+line-height: 1.6;
 }
 h1,h2,h3{
 font-family: 'Noto Sans', "droid-sans", "Roboto",  sans-serif;
@@ -31,9 +33,6 @@ li a {
   text-decoration: none;
   padding: 5px;
 }
-.footer_img{
-float: left;  
-}
 img {
   max-width: 100%;
   max-height: 100%;
@@ -55,8 +54,7 @@ a#titlelink{
   font-weight: 700;
   font-size: 40px;
 }
-
 .snippet{
   color: #fff9;
-  font-family: noto mono, roboto mono, monospace;
+  font-family: roboto mono, monospace;
 }
