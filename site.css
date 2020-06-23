@@ -1,42 +1,39 @@
-body {margin: 45px auto;
+body{margin: 45px auto;
 max-width: 650px;
 padding: 0 10px;
 background-color: #282a37;
 color: #dbdbdb;
 line-height: 1.6;
-font-family:  'noto sans', 'roboto',  'arial', 'droid sans', 'nimbus sans l', 'sans-serif';}
-                   
+font-family: 'noto sans', roboto, arial, 'nimbus sans', sans-serif;}
+                       
 a{color:#2c2;}
- .homelink{ text-decoration: none; color: #2c2;}
-         
-img {max-width: 100%;
+.homelink{text-decoration:none;}
+             
+img{max-width: 100%;
 max-height: 100%;
 display: block;
 margin-left: auto;
 margin-right: auto;}
-        
-picture {max-width: 100%;
+            
+picture{max-width: 100%;
 max-height: 100%;
 display: block;
 margin-left: auto;
 margin-right: auto;}
-
- .ul-nav {list-style-type: none;
+    
+.ul-nav{list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;}
-        
-.li-nav {float: left;
-color: #2c1;
-text-align: center;
-padding: 5px;}
-        
-.ml { color: #fff7; text-decoration: none;}
+            
+.li-nav{float:left; text-align: center; padding: 5px;}
+            
+.ml{color:#fff7;text-decoration:none;}
 
-.code-snippet{ color: #2c2; font-family: 'Roboto Mono', monospace;}
-    
-.tips{border-style: solid;
+.code-snippet{color:#2c2;font-family:'Roboto mono',monospace;}
+        
+.borderbox{border-style: solid;
 border-width: 2px;
-border-color: #555555;
+border-color:#555;
 padding: 7.5px;
 margin-bottom: 10px;}
