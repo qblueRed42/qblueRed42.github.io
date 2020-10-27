@@ -2,10 +2,10 @@ body{margin: 45px auto;
 max-width: 650px;
 padding: 0 10px;
 background-color: #282a37;
-color: #dbdbdb;
+color: #ddd;
 line-height: 1.6;
-font-family: 'noto sans', roboto, arial, 'nimbus sans', sans-serif;}
-                       
+font-family: 'noto sans', 'segoe UI', roboto, arial, 'nimbus sans', sans-serif;}
+                    
 a{color:#2c2;}
 .homelink{text-decoration:none;}
              
